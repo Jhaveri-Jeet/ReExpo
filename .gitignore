@@ -1,0 +1,48 @@
+# Ignore scans directory
+scans/
+
+# Ignore Python virtual environments
+venv/
+*/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Go build files
+*.exe
+*.out
+*.test
+
+# Ignore logs, temp, and system files
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# Ignore .env or config files
+.env
+config.json
+output.json
+
+# Ignore Nmap temporary files
+*.gnmap
+*.nmap
+*.xml
+
+# Ignore tool-specific output files (if needed)
+ffuf.json
+nuclei-results.txt
+urls_gau.txt
+alive.txt
+sorted_subdomains.txt
+subdomains.txt
+
+# Ignore .idea (for JetBrains IDE users)
+.idea/
+
+# Ignore backup files
+*~
+*.bak
+
