@@ -2,8 +2,6 @@
 
 > **Recon Meets Exploitation** — The Ultimate Bug Bounty Toolkit
 
-![ReExpo Banner](https://yourdomain.com/banner.png)
-
 ---
 
 ## ⚡ Overview
